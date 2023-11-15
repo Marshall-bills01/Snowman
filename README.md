@@ -1,2 +1,2 @@
 # Snowman
-A Snowman project that talks about using turtle for it drawing
+A project that talks about using turtle for it drawing
